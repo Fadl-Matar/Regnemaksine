@@ -23,6 +23,7 @@ public class Regnemaksine {
         //hva så shebabs
         //sker der
         System.out.println("Fuck Khaled og Muzzq");
+        System.out.println("FUCK FADL");
 
 
     }
