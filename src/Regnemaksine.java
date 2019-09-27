@@ -21,5 +21,8 @@ public class Regnemaksine {
 
 
         //hva så shebabs
+
+
+        System.out.println("Khaled skal i fængsel");
     }
 }
