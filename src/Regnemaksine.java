@@ -21,5 +21,6 @@ public class Regnemaksine {
 
 
         //hva så shebabs
+        //sker der
     }
 }
