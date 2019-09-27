@@ -22,5 +22,6 @@ public class Regnemaksine {
 
         //hva så shebabs
         //sker der
+        System.out.println("Fuck Khaled");
     }
 }
