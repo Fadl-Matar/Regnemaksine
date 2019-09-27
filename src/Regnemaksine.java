@@ -16,6 +16,8 @@ public class Regnemaksine {
         System.out.println("Division: " + (a/f));
         System.out.println("Modulus: " + (a%f));
 //Muzza skal ud
-        System.out.println("Khaled Zam Zam");
+        //fadl er dum
+
+        //Hej med dig
     }
 }
