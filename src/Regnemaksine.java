@@ -15,6 +15,6 @@ public class Regnemaksine {
         System.out.println("Multiplikation: " + (a*f));
         System.out.println("Division: " + (a/f));
         System.out.println("Modulus: " + (a%f));
-
+//
     }
 }
