@@ -18,6 +18,8 @@ public class Regnemaksine {
 //Muzza skal ud
         //fadl er dum
 
+
+
         //hva så shebabs
     }
 }
