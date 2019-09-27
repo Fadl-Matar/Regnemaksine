@@ -17,5 +17,8 @@ public class Regnemaksine {
         System.out.println("Modulus: " + (a%f));
 //Muzza skal ud
         //fadl er dum
+        //fuck shorta
+
+
     }
 }
