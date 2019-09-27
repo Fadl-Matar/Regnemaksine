@@ -16,7 +16,5 @@ public class Regnemaksine {
         System.out.println("Division: " + (a/f));
         System.out.println("Modulus: " + (a%f));
         System.out.println("sqrt x: " + Math.pow(a,f));
-        System.out.println("Procent: " + (a/f)*100);
-
     }
 }
